@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color:white;
+    scale: 1.8em;
+width: 25cm;
+}
